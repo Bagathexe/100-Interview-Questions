@@ -30,8 +30,7 @@ I hope this repository helps others in their interview preparation journey. Feel
 
 
 **License**  
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Bagathexe/100-Interview-Questions/blob/main/LICENSE.txt) file for details.
 
 **Contact**  
 For any questions or suggestions, please feel free to reach out to me.
